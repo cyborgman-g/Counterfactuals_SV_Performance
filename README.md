@@ -11,4 +11,4 @@ This repository contains the implementation and experimental code for our paper 
 The complete source code and experimental implementations will be made publicly available upon paper acceptance decision.
 
 ## Available Files
-1. Folder COUNTERFACTUALS contain comparison plots for original vs counterfactual audios.
+1. File COUNTERFACTUALS.zip contain comparison plots for original vs counterfactual audios.
