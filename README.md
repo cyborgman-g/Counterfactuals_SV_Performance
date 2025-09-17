@@ -1,2 +1,11 @@
-# Counterfactuals_SV_Performance
-Counterfactuals Questions to asses the performance of SV models in FP32 and INT8 bit precision
+# Counterfactual Analysis for SV model robustness
+
+## 📋 Overview
+This repository contains the implementation and experimental code for our paper submitted to **ICASSP26**.
+
+## 📄 Paper Status
+**Status:** Under Review  
+**Conference:** ICASSP26 Conference  
+
+## 🔒 Code Availability
+The complete source code and experimental implementations will be made publicly available upon paper acceptance decision.
